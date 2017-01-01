@@ -1,0 +1,128 @@
+﻿/** * html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/) * Richard Clark (http://richclarkdesign.com) * http://cssreset.com */
+html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,abbr, address, cite, code,del, dfn, em, img, ins, kbd, q, samp,small, strong, sub, sup, var,b, i,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, figcaption, figure,footer, header, hgroup, menu, nav, section, summary,time, mark, audio, video {    margin:0;    padding:0;    border:0;    outline:0;    font-size:100%;    vertical-align:baseline;    background:transparent;}body {    line-height:1;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {    display:block;}nav ul {    list-style:none;}blockquote, q {    quotes:none;}blockquote:before, blockquote:after,q:before, q:after {    content:'';    content:none;}a {    margin:0;    padding:0;    font-size:100%;    vertical-align:baseline;    background:transparent;}/* change colours to suit your needs */ins {    background-color:#ff9;    color:#000;    text-decoration:none;}/* change colours to suit your needs */mark {    background-color:#ff9;    color:#000;    font-style:italic;    font-weight:bold;}del {    text-decoration: line-through;}abbr[title], dfn[title] {    border-bottom:1px dotted;    cursor:help;}table {    border-collapse:collapse;    border-spacing:0;}/* change border colour to suit your needs */hr {    display:block;    height:1px;    border:0;    border-top:1px solid #cccccc;    margin:1em 0;    padding:0;}input, select {    vertical-align:middle;}
+
+
+/*Below is the code for the page */
+
+
+/*ALL PAGES*/
+#whole-page {background-image: url('../images/box.jpg')}
+
+#wrapper {width:1500px; margin:0px auto;} 
+
+#nav-bar {width:100%; height: 50px; margin: 0 0 0 0; background-color:  #282320}
+
+/*#top-menu {width: auto; height:50px; float:right}*/
+
+#top-menu {width: auto; height:50px; float:right}
+
+#top-items {width:100%; float:right; margin: 0px 0px 0px 0px;}
+#top-items li {	display:inline; }
+#top-items li a { float:left; margin: 18px 0 0 0; padding:  0px 45px 15px 40px;font-size:15px; font-family: 'Open Sans', sans-serif; color:#666666; font-style:normal;}
+#top-items a:link {color:#666666; text-decoration:none;}
+#top-items a:visit {color:#9A4303;text-decoration:none;}
+#top-items a:hover {color:#CCCCCC; text-decoration: none; border-bottom: medium  #C4B9A2 solid; }
+#top-items a:active {color:#9A4303; text-decoration: none; border-bottom: medium #C4B9A2 solid; }
+#top-items a:focus {color:#666666;text-decoration:none;}
+
+#title-container {width:20%;margin:0px 0px 0px 0px; height:50px; float: left;}
+
+#logo {width:35px;float:left;margin:6.5px 0px 0px 10px}
+#logo-name {float:left;width:190px; height: 50px; margin:0px 0px 0px 0px}
+#logo-text {float:left;width:190px; height: 50px; margin:10px 0px 0px 15px; font-family: 'Bree Serif', serif; color: #9A4303; font-style: normal; font-size: 25px; letter-spacing: 3px}
+
+
+#footer {width:100%;height:40px;background:#282320;}
+
+#social-media {width:auto; height:30px; float:right; margin:5px 4px 0px 0px;}
+#social-media ul li {display:inline;}
+#social-media ul li a img {width:30px; height:30px;}
+
+#footer p {color:#FFFFFF;margin:14px 0px 0px 20px; float:left; font-family: 'Amatic SC', cursive; }
+
+
+
+/*HOME*/
+#home-image {background-image:url('../images/top.png'); overflow:hidden; width:1500px ; height:1000px;}
+#home-image p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 650px 120px 0 0; text-align: justify;}
+
+#motto{list-style-type: none; float: left}
+#motto li {margin: 80px 0 80px 60px;}
+#motto li {font-size: 100px; color: #FFFFFF; font-family: 'Fredericka the Great', cursive; /*margin: 80px 0 80px 60px; letter-spacing: 3px;*/}
+
+
+
+
+
+/*ABOUT*/
+#about1 {background-image:url('../images/about2.png'); overflow:hidden; width:1500px ; height:1000px;}
+#about1 p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 95px 120px 0 0; text-align: justify;}
+
+#about2 {background-image:url('../images/about1.png'); overflow:hidden; width:1500px ; height:1000px;}
+#about2 p {float:left; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 100px 0px 0 60px; text-align: justify;}
+#title2{list-style-type: none; float: right}
+#title2 li {margin: 80px 120px 80px 0px; text-align: right;}
+#title2 li {font-size: 100px; color: #FFFFFF; font-family: 'Fredericka the Great', cursive;}
+
+#sub1{height:250px; width:1500px;}
+#sub2{height:375px; width:1500px;}
+#sub3{height:375px; width:1500px;}
+#about3 {background-image:url('../images/about3.png'); overflow:hidden; width:1500px ; height:1000px;}
+#about3 p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 95px 120px 0 0; text-align: justify;}
+#title3{list-style-type: none; float: left}
+#title3 li {margin: 80px 0 0px 60px;}
+#title3 li {font-size: 100px; color: #FFFFFF; font-family: 'Fredericka the Great', cursive;}
+
+
+/*MEMBERS*/
+#member-image {background-image:url('../images/members.png'); overflow:hidden; width:1500px ; height:1000px;}
+#member-image p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 33px; color: #FFFFFF; margin: 100px 120px 0 0; text-align: justify;}
+
+#membertitle{list-style-type: none; float: left}
+#membertitle li {margin: 80px 0 80px 60px;}
+#membertitle li {font-size: 100px; color: #FFFFFF; font-family: 'Fredericka the Great', cursive;}
+
+
+
+/*CONTACT*/
+#contact {background-image:url('../images/contact.png'); overflow:hidden; width:1500px ; height:1000px;}
+#contact p {float:left; width: 600px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 100px 0px 0 60px; text-align: justify;}
+
+
+
+/*PROJECTS*/
+#projects {background-image:url('../images/projects.png'); overflow:hidden; width:1500px ; height:1000px;}
+#projects p {float:left; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; text-align: justify;}
+#projects a {text-decoration:none; color:#FFFFFF}
+
+
+.popbox {
+    display: none;
+    position: absolute;
+    z-index: 99999;
+    width: 700px;
+    padding: 20px;
+    background: #EEEFEB;
+    color: #000000;
+    /*border: 3px solid #4D4F53;*/
+    margin: 0px;
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 20px;
+    font-weight: normal;
+   /* -webkit-box-shadow: 0px 0px 5px 0px rgba(164, 164, 164, 1);
+    box-shadow: 0px 0px 5px 0px rgba(164, 164, 164, 1);*/
+}
+.popbox h2
+{
+    background-color: #4D4F53;
+    color:  #E3E5DD;
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    margin: -10px 0px 8px -10px;
+    padding: 5px 10px;
+}
+
+
+
+
