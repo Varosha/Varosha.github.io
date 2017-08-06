@@ -6,30 +6,54 @@ html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre
 
 
 /*ALL PAGES*/
-#whole-page {background-image: url('../images/box.jpg')}
 
-#wrapper {width:1500px; margin:0px auto;} 
 
-#nav-bar {width:100%; height: 50px; margin: 0 0 0 0; background-color:  #282320}
+#wrapper {max-width:1550px; min-width: 1265px; margin:0px auto;} 
+
+#title-bar {width:100%; height: 150px; margin: 0 0 0 0; background-color:  #E67E22}
+
+#nav-bar {width:100%; height: 75px; margin: 0 0 0 0; background-color:  #282320}
 
 /*#top-menu {width: auto; height:50px; float:right}*/
 
-#top-menu {width: auto; height:50px; float:right}
+#top-menu {width: auto; height:75px; float:right}
 
 #top-items {width:100%; float:right; margin: 0px 0px 0px 0px;}
 #top-items li {	display:inline; }
-#top-items li a { float:left; margin: 18px 0 0 0; padding:  0px 45px 15px 40px;font-size:15px; font-family: 'Open Sans', sans-serif; color:#666666; font-style:normal;}
+#top-items li a { float:left; margin: 18px 0 0 0; padding:  10px 30px 20px 30px;font-size:23px; font-family: 'Open Sans', sans-serif; color:#666666; font-style:normal;}
 #top-items a:link {color:#666666; text-decoration:none;}
-#top-items a:visit {color:#9A4303;text-decoration:none;}
+#top-items a:visit {color:#E67E22;text-decoration:none;}
 #top-items a:hover {color:#CCCCCC; text-decoration: none; border-bottom: medium  #C4B9A2 solid; }
-#top-items a:active {color:#9A4303; text-decoration: none; border-bottom: medium #C4B9A2 solid; }
+#top-items a:active {color:#E67E22; text-decoration: none; border-bottom: medium #C4B9A2 solid; }
 #top-items a:focus {color:#666666;text-decoration:none;}
 
-#title-container {width:20%;margin:0px 0px 0px 0px; height:50px; float: left;}
+#title-container {max-width:1500px; min-width: 1165px; margin:0px 0px 0px 0px; height:50px; float: left;}
 
-#logo {width:35px;float:left;margin:6.5px 0px 0px 10px}
+
+@font-face {
+    font-family: logofont;
+    src: url(../fonts/Anton.ttf);
+}
+#logo {width: 140px;float:left;margin:6.5px 0px 0px 10px}
 #logo-name {float:left;width:190px; height: 50px; margin:0px 0px 0px 0px}
-#logo-text {float:left;width:190px; height: 50px; margin:10px 0px 0px 15px; font-family: 'Bree Serif', serif; color: #9A4303; font-style: normal; font-size: 25px; letter-spacing: 3px}
+#logo-text {float:left;width:190px; height: 50px; margin:30px 0px 0px 160px; font-family: 'Open Sans'; color: #FFFFFF; font-style: normal; font-size: 80px; letter-spacing: 3px; position: absolute}
+#slogan {font-size: 15px; font-family: 'Open Sans'; width:550px; margin: 60px 0px 0px 600px}
+
+#moto-wrapper {width: 540px; float: right;}
+
+#moto-text {
+	float: left; 
+	height: 50px; 
+	width: 500px;
+	margin:55px 00px 0px 00px;
+ 	font-family: 'Bree Serif', serif; color: #000000; 
+	font-style: normal; 
+	font-size: 25px; 
+	letter-spacing: 3px; 
+	position: absolute;
+	
+}
+
 
 
 #footer {width:100%;height:40px;background:#282320;}
@@ -38,13 +62,19 @@ html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre
 #social-media ul li {display:inline;}
 #social-media ul li a img {width:30px; height:30px;}
 
-#footer p {color:#FFFFFF;margin:14px 0px 0px 20px; float:left; font-family: 'Amatic SC', cursive; }
+#footer p {font-size: 15px;color:#FFFFFF;margin:14px 20px 0px 20px; float:right; font-family: 'Courier New'; font-size: 15px;}
 
 
 
 /*HOME*/
-#home-image {background-image:url('../images/top.png'); overflow:hidden; width:1500px ; height:1000px;}
-#home-image p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 650px 120px 0 0; text-align: justify;}
+#home-image {background-image:url('../images/top.png'); overflow:hidden; width:100%;}
+#home-image p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 15px; color: #888888; margin: 650px 120px 0 0; text-align: justify;}
+
+@font-face {
+    font-family: introfont;
+    src: url(../fonts/darl.otf);
+}
+#intro{width:90%; margin-left:auto; margin-right: auto; margin-top: 10px; margin-bottom: 10px; font-family: 'Open Sans'; font-size: 23px; text-align: center; color: #000000}
 
 #motto{list-style-type: none; float: left}
 #motto li {margin: 80px 0 80px 60px;}
@@ -55,10 +85,14 @@ html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre
 
 
 /*ABOUT*/
-#about1 {background-image:url('../images/about2.png'); overflow:hidden; width:1500px ; height:1000px;}
+#sstitle {float: center;margin-left:auto; margin-right: auto; margin-top: 10px; margin-bottom: 10px; width:50%; font-size: 60px;text-align: center; font-family: 'Open Sans';}
+#ssp {margin: 25px 50px 25px 50px; font-family: 'Open Sans'; font-size: 17px}
+#ssp2 {width: 45%;margin: 25px 50px 25px 50px; font-family: 'Open Sans'; font-size: 17px}
+
+#about1 {background-image:url('../images/about2.png'); overflow:hidden; width:100%;}
 #about1 p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 95px 120px 0 0; text-align: justify;}
 
-#about2 {background-image:url('../images/about1.png'); overflow:hidden; width:1500px ; height:1000px;}
+#about2 {background-image:url('../images/about1.png'); overflow:hidden; width:100%;}
 #about2 p {float:left; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 100px 0px 0 60px; text-align: justify;}
 #title2{list-style-type: none; float: right}
 #title2 li {margin: 80px 120px 80px 0px; text-align: right;}
@@ -67,7 +101,7 @@ html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre
 #sub1{height:250px; width:1500px;}
 #sub2{height:375px; width:1500px;}
 #sub3{height:375px; width:1500px;}
-#about3 {background-image:url('../images/about3.png'); overflow:hidden; width:1500px ; height:1000px;}
+#about3 {background-image:url('../images/about3.png'); overflow:hidden; width:100%;}
 #about3 p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 95px 120px 0 0; text-align: justify;}
 #title3{list-style-type: none; float: left}
 #title3 li {margin: 80px 0 0px 60px;}
@@ -75,17 +109,17 @@ html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre
 
 
 /*MEMBERS*/
-#member1 {background-image:url('../images/members.png'); overflow:hidden; width:1500px ; height:1000px;}
+#member1 {background-image:url('../images/members.png'); overflow:hidden; width:100%;}
 #member1 p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 33px; color: #FFFFFF; margin: 100px 120px 0 0; text-align: justify;}
 
 #membertitle{list-style-type: none; float: left}
 #membertitle li {margin: 80px 0 80px 60px;}
 #membertitle li {font-size: 100px; color: #FFFFFF; font-family: 'Fredericka the Great', cursive;}
 
-#member2 {background-image:url('../images/members2.png'); overflow:hidden; width:1500px ; height:1000px;}
+#member2 {background-image:url('../images/members2.png'); overflow:hidden; width:100%;}
 #member2 p {float:right; width: 450px; font-family: 'Amatic SC', cursive; font-size: 33px; color: #FFFFFF; margin: 100px 120px 0 0; text-align: justify;}
 
-#member3 {background-image:url('../images/members3.png'); overflow:hidden; width:1500px ; height:1000px;}
+#member3 {background-image:url('../images/members3.png'); overflow:hidden; width:100%;}
 #member3 p {float:left; width: 450px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 100px 0px 0 60px; text-align: justify;}
 #membertitle3{list-style-type: none; float: right}
 #membertitle3 li {margin: 80px 120px 80px 0px; text-align: right;}
@@ -94,13 +128,13 @@ html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre
 
 
 /*CONTACT*/
-#contact {background-image:url('../images/contact.png'); overflow:hidden; width:1500px ; height:1000px;}
+#contact {background-image:url('../images/contact.png'); overflow:hidden; width:100%;}
 #contact p {float:left; width: 600px; font-family: 'Amatic SC', cursive; font-size: 35px; color: #FFFFFF; margin: 100px 0px 0 60px; text-align: justify;}
 
 
 
 /*PROJECTS*/
-#projects {background-image:url('../images/projects2.png'); overflow:hidden; width:1500px ; height:1000px;}
+#projects {background-image:url('../images/projects2.png'); overflow:hidden; width:100%;}
 #projects p {float:left; width: 450px; font-family: 'Amatic SC', cursive; font-size: 30px; color: #FFFFFF; text-align: justify;}
 #projects a {font-family: 'Amatic SC', cursive; font-size: 25px;text-decoration:none; color:#FFFFFF}
 

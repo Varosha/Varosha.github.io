@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<link href="css/main.css" media="screen" rel="StyleSheet" type="text/css">
+<title>Members</title>
+<style type="text/css">
+
+.auto-style1 {
+	color: #974B00;
+}
+
+.active {
+	color:#9A4303; text-decoration: none; 
+}
+
+
+</style>
+</head>
+
+
+
+<link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet" type="text/css">
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:800&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Amatic+SC:700,400' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Fredericka+the+Great' rel='stylesheet' type='text/css'>
+
+
+<body id="whole-page">
+
+<div id="wrapper">
+	<div id="title-bar">
+		<div id="title-container">
+			<div id="logo"><img src="images/logo.png" width="130px"></div>
+			<div id="logo-text">VAROSHA</div>
+			<div id="moto-wrapper">
+				<div id="moto-text"><center>Hope and Empowerment through Education and Opporunity</center></div>
+			</div>
+		</div>
+	</div>
+	<div id="nav-bar">
+		<div id="top-menu">
+			<ul id="top-items">
+				<li><a href="index.html">HOME</a></li>
+				<li><a href="about.html">ABOUT US</a></li>
+				<li><a href="members.html"><p class="active">MEMBERS</p></a></li>
+				<li><a href="contact.html">CONTACT</a></li>
+				<li><a href="projects.html">PROJECTS</a></li>
+				<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SKPDLH84HBZQQ">DONATE</a></li>
+				<li><a href="https://www.facebook.com/varoshaorg">SOCIAL MEDIA</a></li>
+				<li></li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="sstitle">
+		Members
+	</div>
+
+	<div id="ssp">
+		The organization’s operating principle is volunteerism. No Varosha member is financially compensated for their time, expertise or expenses.  Varosha is a registered not-for-profit organization with tax exempt status. All funds we collect are sent to operate projects that benefit disadvantaged people.
+	</div>
+
+
+	<img src="images/Presentation1.jpg" alt="frontpageimage" style="width: 100%; margin-top: 10px; margin-bottom: 10px;">
+
+
+	<div id="footer">
+		<p>© 2017 VAROSHA.ORG Varosha is a registered not-for-profit philanthropic 
+		organization with tax exempt status under not-for-profit laws. </p>
+	</div>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<link href="css/main.css" media="screen" rel="StyleSheet" type="text/css">
+<title>Contact</title>
+<style type="text/css">
+
+.align-right {
+	float:right; margin: 0 120px 0 0;
+}
+
+.align-left {
+	float:left; margin: 0 0 0 120px;
+}
+
+.active {
+	color:#9A4303; text-decoration: none; 
+}
+
+</style>
+</head>
+
+
+
+<link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet" type="text/css">
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:800&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Amatic+SC:700,400' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Fredericka+the+Great' rel='stylesheet' type='text/css'>
+
+
+<body id="whole-page">
+
+<div id="wrapper">
+	<div id="title-bar">
+		<div id="title-container">
+			<div id="logo"><img src="images/logo.png" width="130px"></div>
+			<div id="logo-text">VAROSHA</div>
+			<div id="moto-wrapper">
+				<div id="moto-text"><center>Hope and Empowerment through Education and Opportunity</center></div>
+			</div>
+		</div>
+	</div>
+	<div id="nav-bar">
+		<div id="top-menu">
+			<ul id="top-items">
+				<li><a href="index.html">HOME</a></li>
+				<li><a href="about.html">ABOUT US</a></li>
+				<li><a href="members.html">MEMBERS</a></li>
+				<li><a href="contact.html"><p class="active">CONTACT</p></a></li>
+				<li><a href="projects.html">PROJECTS</a></li>
+				<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SKPDLH84HBZQQ">DONATE</a></li>
+				<li><a href="https://www.facebook.com/varoshaorg">SOCIAL MEDIA</a></li>
+				<li></li>
+			</ul>
+		</div>
+	</div>
+
+
+
+	<div id="sstitle">
+		Contact Us
+	</div>	
+	
+	<div id="ssp">
+		<p>Our Business Office<br>Phone: 847.640.8092<br>Address: Varosha; 886 Willson Drive; Des Plaines, IL 60016, USA</p>
+	</div>
+	
+	<div id="ssp">						
+	<h2>Send us a message</h2><br>
+
+	<form action="mailto:dasgupta.kr@gmail.com" method="post" enctype="text/plain" id="usrform">
+		Name:<br>
+		<input type="text" name="name"><br>
+		E-mail:<br>
+		<input type="text" name="mail"><br>
+		Comment:<br>
+		<textarea rows="16" cols="30" name="comment" form="usrform"></textarea><br><br>
+		<input type="submit" value="Send">
+		<input type="reset" value="Reset">
+	</form>					
+	</div>
+					
+
+
+	
+	<div id="footer">
+		<p>© 2017 VAROSHA.ORG Varosha is a registered not-for-profit philanthropic 
+		organization with tax exempt status under not-for-profit laws. </p>
+	</div>
+</div>
+
+</body>
+
+</html>
