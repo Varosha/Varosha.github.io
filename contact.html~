@@ -62,14 +62,13 @@
 	</div>
 
 
-
-	<div id="sstitle">
-		Contact Us
-	</div>	
+	<img src="images/contactpic.jpg" alt="frontpageimage" style="width: 45%; float: right; margin: 20px 50px 20px 50px">
 	
 	<div id="ssp">
-		<p>Our Business Office<br>Phone: 847.640.8092<br>Address: Varosha; 886 Willson Drive; Des Plaines, IL 60016, USA</p>
+		<p>Our Business Office<br><br>Phone: 847.640.8092<br>Email: varosha2004@gmail.com<br>Address: <div id="address"><br>Varosha<br>886 Willson Drive<br>Des Plaines, IL 60016<br>USA</div></p>
 	</div>
+	
+	
 	
 	<div id="ssp">						
 	<h2>Send us a message</h2><br>
@@ -80,7 +79,7 @@
 		E-mail:<br>
 		<input type="text" name="mail"><br>
 		Comment:<br>
-		<textarea rows="16" cols="30" name="comment" form="usrform"></textarea><br><br>
+		<textarea rows="12" cols="70" name="comment" form="usrform"></textarea><br><br>
 		<input type="submit" value="Send">
 		<input type="reset" value="Reset">
 	</form>					
