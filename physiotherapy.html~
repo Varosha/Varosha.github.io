@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<link href="css/main.css" media="screen" rel="StyleSheet" type="text/css">
+<title>Projects</title>
+<style type="text/css">
+
+.align-right {
+	float:right; margin: 0 120px 0 0;
+}
+
+.align-left {
+	float:left; margin: 0 0 0 120px;
+}
+
+.active {
+	color:#9A4303; text-decoration: none; 
+}
+
+</style>
+</head>
+
+
+<link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet" type="text/css">
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:800&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Amatic+SC:700,400' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Fredericka+the+Great' rel='stylesheet' type='text/css'>
+
+
+<body id="whole-page">
+
+<div id="wrapper">
+	<div id="title-bar">
+		<div id="title-container">
+			<div id="logo"><img src="images/logo.png" width="130px"></div>
+			<div id="logo-text">VAROSHA</div>
+			<div id="moto-wrapper">
+				<div id="moto-text"><center>Hope and Empowerment through Education and Opportunity</center></div>
+			</div>
+		</div>
+	</div>
+	<div id="nav-bar">
+		<div id="top-menu">
+			<ul id="top-items">
+				<li><a href="index.html">HOME</a></li>
+				<li><a href="about.html">ABOUT US</a></li>
+				<li><a href="members.html">MEMBERS</a></li>
+				<li><a href="contact.html">CONTACT</a></li>
+				<li><a href="projects.html"><p class="active">PROJECTS</p></a></li>
+				<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SKPDLH84HBZQQ">DONATE</a></li>
+				<li><a href="https://www.facebook.com/varoshaorg">SOCIAL MEDIA</a></li>
+				<li></li>
+			</ul>
+		</div>
+	</div>
+	
+	<div id="sstitle">
+		Health-care and Physiotherapy Assistant Training
+	</div>
+
+	<img src="images/projects/physiotherapy.png" alt="frontpageimage" style="width: 45%; float: right; margin: 20px 50px 20px 50px">
+
+	<div id="ssp2">
+This project prepares and train individuals from disadvantaged community to deliver general healthcare support to newborns, the elderly, sick and those recovering from surgeries. 
+<br><br>
+The training covers basic physiology, anatomy, hygiene, general skills like measuring blood pressure, temperature, dressing, administering medications, and physiotherapy. Candidates have a minimum of 8th grade education to be accepted into the program.  They go through a 3 month education program and then are sent to a nursing home for 3 months of practical training.  Once trained they are quickly finding work.  
+	</div>
+
+
+
+	<div id="footer">
+		<p>© 2017 VAROSHA.ORG Varosha is a registered not-for-profit philanthropic 
+		organization with tax exempt status under not-for-profit laws. </p>
+	</div>
+</div>
+
+</body>
+
+</html>
