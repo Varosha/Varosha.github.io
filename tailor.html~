@@ -3,7 +3,7 @@
 
 <head>
 <link href="css/main.css" media="screen" rel="StyleSheet" type="text/css">
-<title>About</title>
+<title>Projects</title>
 <style type="text/css">
 
 .align-right {
@@ -35,7 +35,7 @@
 
 <body id="whole-page">
 
-<div id="wrapper">
+<div id="swrapper">
 	<div id="title-bar">
 		<div id="title-container">
 			<div id="logo"><img src="images/logo.png" width="130px"></div>
