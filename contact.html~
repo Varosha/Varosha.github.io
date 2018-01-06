@@ -84,7 +84,7 @@
 	<div id="ssp">						
 	<h2>Send us a message</h2><br>
 
-	<form action="mailto:dasgupta.kr@gmail.com" method="post" enctype="text/plain" id="usrform">
+	<form action="mailto:contact@varosha.org" method="post" enctype="text/plain" id="usrform">
 		Name:<br>
 		<input type="text" name="name"><br>
 		E-mail:<br>
