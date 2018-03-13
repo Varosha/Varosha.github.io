@@ -31,7 +31,7 @@
 <link href='http://fonts.googleapis.com/css?family=Fredericka+the+Great' rel='stylesheet' type='text/css'>
 
 
-<body id="whole-page">
+<body id="whole-page" style="background-color:#666666">
 
 <div id="wrapper">
 	<div id="title-bar">
@@ -58,16 +58,163 @@
 		</div>
 	</div>
 
-	<div id="sstitle">
-		Members
+
+
+	<img src="images/members/team2.jpg" alt="frontpageimage" style="width: 80%; margin-top: 10px; margin-bottom: 30px; margin-left: 10%; margin-right: 10%;">
+
+	<br>
+
+	<div style="width:100%;">
+		<img src="images/members/santi.jpg" alt="frontpageimage" style="float:left; width: 150px; margin-top: 10px; margin-bottom: 10px; margin-left: 20%; margin-right:20 px">
+
+		<div id="ssp" style="float:left; margin-left: 30px; width: 600px;">
+			Founding Director and Chairman
+			<br>
+			<br>
+			Santi Banerjee is the founding director of Varosha.  He is a retired Biochemical 				Microbiologist who has been interested in philanthropic work throughout his life.   				After immigrating to Chicago, Santi formed a team of community members and sponsored a soup 				kitchen once a month for the last 25 years.  
+		</div>
 	</div>
 
-	<div id="ssp">
-		The organization’s operating principle is volunteerism. No Varosha member is financially compensated for their time, expertise or expenses.  Varosha is a registered not-for-profit organization with tax exempt status. All funds we collect are sent to operate projects that benefit disadvantaged people.
+	<br>
+	<br>
+	<br>
+	<br>	
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>	
+
+	<div style="width:100%">
+		<img src="images/members/krishna.jpg" alt="frontpageimage" style="float:left; width: 150px; margin-top: 10px; margin-bottom: 10px; margin-left: 20%; margin-right:20 px">
+
+		<div id="ssp" style="float:left; margin-left: 30px; width: 600px">
+			Founding Director
+			<br>
+			<br>
+			Krishna Chakrabarty is one of the three founder members of Varosha, along with Santi Banerjee 				and Subrata Banerjee. She is a biochemist and after retiring from University of Illinois at 				Chicago, she volunteers as a tutor to medical students.
+		</div>
 	</div>
 
+	<br>
+	<br>
+	<br>
+	<br>	
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>	
 
-	<img src="images/Presentation1.jpg" alt="frontpageimage" style="width: 100%; margin-top: 10px; margin-bottom: 10px;">
+	<div style="width:100%">
+		<img src="images/members/neela.jpg" alt="frontpageimage" style="float:left; width: 150px; margin-top: 10px; margin-bottom: 10px; margin-left: 20%; margin-right:20 px">
+
+		<div id="ssp" style="float:left; margin-left: 30px; width: 600px">
+			Director of Finance
+			<br>
+			<br>
+			Neela Dasgupta is a CPA with experience in public, governmental and nonprofit accounting and reporting.  She has over 20 years of experience in small business accounting.
+		</div>
+	</div>
+
+	<br>
+	<br>
+	<br>
+	<br>	
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>	
+
+	<div style="width:100%">
+		<img src="images/members/bikram.jpg" alt="frontpageimage" style="float:left; width: 150px; margin-top: 10px; margin-bottom: 10px; margin-left: 20%; margin-right:20 px">
+
+		<div id="ssp" style="float:left; margin-left: 30px; width: 600px">
+			Director of Project Management
+			<br>
+			<br>
+			Bikram Dewanjee is a CPA, MBA and successful entrepreneur who brings a wealth of practical 				experience to help Varosha in the area of Strategic Planning and Project Management. 
+		</div>
+	</div>
+
+	<br>
+	<br>
+	<br>
+	<br>	
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>	
+
+	<div style="width:100%">
+		<img src="images/members/chandrima.jpg" alt="frontpageimage" style="float:left; width: 150px; margin-top: 10px; margin-bottom: 10px; margin-left: 20%; margin-right:20 px">
+
+		<div id="ssp" style="float:left; margin-left: 30px; width: 600px">
+			Director of Fundraising and Special Projects 
+			<br>
+			<br>
+			Chandrima Roy has over 25 years of experience in regional and local economic 				development, growth management and sustainability.   
+		</div>
+	</div>
+
+	<br>
+	<br>
+	<br>
+	<br>	
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>	
+
+	<div style="width:100%">
+		<img src="images/members/shompita.jpg" alt="frontpageimage" style="float:left; width: 150px; margin-top: 10px; margin-bottom: 10px; margin-left: 20%; margin-right:20 px">
+
+		<div id="ssp" style="float:left; margin-left: 30px; width: 600px">
+			Community Outreach and Social Media Coordinator
+			<br>
+			<br>
+			Shompita Bhattacharyya is an Engineering Quality Manager at Motorola Solutions. Shompita is 				part of our Public Relations and Community Outreach team. 
+		</div>
+	</div>
+
+	<br>
+	<br>
+	<br>
+	<br>	
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>	
+
+	<div style="width:100%">
+		<img src="images/members/shuvani.jpg" alt="frontpageimage" style="float:left; width: 150px; margin-top: 10px; margin-bottom: 30px; margin-left: 20%; margin-right:20 px">
+
+		<div id="ssp" style="float:left; margin-left: 30px; width: 600px">
+			Health Care Initiatives and Special Projects Coordinator
+			<br>
+			<br>
+			Shuvani Sanyal is a resident training in Internal Medicine & Pediatrics. Shuvani is initiating 				health education programs in communities Varosha serves and also part of Community Outreach. 
+		</div>
+	</div>
+
+	
+
 
 
 	<div id="footer">
