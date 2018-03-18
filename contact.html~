@@ -81,6 +81,7 @@
 	
 	
 	
+	<!--
 	<div id="ssp">						
 	<h2>Send us a message</h2><br>
 
@@ -95,6 +96,7 @@
 		<input type="reset" value="Reset">
 	</form>					
 	</div>
+	-->
 					
 
 
