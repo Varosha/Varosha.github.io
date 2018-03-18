@@ -6,7 +6,7 @@ html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre
 
 
 /*ALL PAGES*/
-
+#whole-page {background-color:#D0D0D0;}
 
 #wrapper {max-width:1550px; min-width: 1265px; margin:0px auto;} 
 #swrapper {max-width:1550px; min-width: 1265px; margin:0px auto; background-color:#DAA520;} 
