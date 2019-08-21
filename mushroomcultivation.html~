@@ -1,7 +1,3 @@
-﻿<!DOCTYPE html>
-<html>
-
-<head>
 <link href="css/main.css" media="screen" rel="StyleSheet" type="text/css">
 <title>Projects</title>
 <style type="text/css">
@@ -61,13 +57,13 @@
 	</div>
 	
 	<div id="sstitle">
-		After–School Tuition Centers
+		Beautician Training
 	</div>
 
-	<img src="images/projects/school.png" alt="frontpageimage" style="width: 45%; float: right; margin: 20px 50px 20px 50px">
+	<img src="images/projects/2019projects/tailoring.jpg" alt="frontpageimage" style="width: 45%; float: right; margin: 20px 50px 20px 50px">
 
 	<div id="ssp2">
-The program provides full-service academic support between 2 pm and 10 pm in two centers in Kolkata in math, English and computer skills.   Each center has about 25 students.  All participants are provided nutritious meals.  The meals are paid for by Varosha and prepared and delivered by local residents.
+Classes are held in Bolpur, WB and two centers in Kolkata.  Currently 52 young women are taking the classes.  The curriculum will cover: manicure, pedicure, waxing, eye brows, make up, facial, hair styling and saree draping. They will get further training at a local beauty parlor
 	</div>
 
 
