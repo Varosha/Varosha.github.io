@@ -76,11 +76,11 @@ if($_POST){
 	<div id="nav-bar">
 		<div id="top-menu">
 			<ul id="top-items">
-				<li><a href="index.html">HOME</a></li>
-				<li><a href="about.html">ABOUT US</a></li>
-				<li><a href="members.html">MEMBERS</a></li>
+				<li><a href="index">HOME</a></li>
+				<li><a href="about">ABOUT US</a></li>
+				<li><a href="members">MEMBERS</a></li>
 				<li><a href="contact.php"><p class="active">CONTACT</p></a></li>
-				<li><a href="projects.html">PROJECTS</a></li>
+				<li><a href="projects">PROJECTS</a></li>
 				<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SKPDLH84HBZQQ">DONATE</a></li>
 				<li><a href="https://www.facebook.com/varoshaorg">SOCIAL MEDIA</a></li>
 				<li></li>
